@@ -1,0 +1,1 @@
+This project is a benchmark to display what I have learned regarding basic html. To do this, I will be incorporating fundamental html elements to create a recipe page on the internet. This project demonstrates an understanding of boilerplates and paragraph, anchor, image, and heading elements.
