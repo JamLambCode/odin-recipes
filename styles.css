@@ -1,3 +1,12 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(14, 147, 92);
+}
